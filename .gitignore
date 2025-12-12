@@ -154,3 +154,6 @@ Thumbs.db
 
 # Project specific
 recolectors/
+
+# Ignore images
+*.png
